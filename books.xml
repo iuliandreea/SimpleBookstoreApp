@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book id="4">
+        <title>t4</title>
+        <author>a4</author>
+        <genre>ACTION</genre>
+        <quantity>4</quantity>
+        <price>4.0</price>
+    </book>
+    <book id="2">
+        <title>Jane Eyre</title>
+        <author>Charlotte Bronte</author>
+        <genre>Romance</genre>
+        <quantity>3</quantity>
+        <price>15.5</price>
+    </book>
+    <book id="3">
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <genre>Romance</genre>
+        <quantity>0</quantity>
+        <price>20.0</price>
+    </book>
+    <book id="5">
+        <title>The Hobbit</title>
+        <author>JRR Tolkien</author>
+        <genre>Fantasy</genre>
+        <quantity>0</quantity>
+        <price>12.5</price>
+    </book>
+    <book id="8">
+        <title>NewBook</title>
+        <author>NewAuthor</author>
+        <genre>Action</genre>
+        <quantity>4</quantity>
+        <price>10.0</price>
+    </book>
+    <book id="10">
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <genre>Historical</genre>
+        <quantity>2</quantity>
+        <price>20.0</price>
+    </book>
+    <book id="7">
+        <title>Harry Potter </title>
+        <author>JK Rowling</author>
+        <genre>Fantasy</genre>
+        <quantity>19</quantity>
+        <price>23.0</price>
+    </book>
+    <book id="1">
+        <title>t1</title>
+        <author>a2</author>
+        <genre>ROMANCE</genre>
+        <quantity>0</quantity>
+        <price>1.0</price>
+    </book>
+    <book id="9">
+        <title>Emma</title>
+        <author>Jane Austen</author>
+        <genre>Historical</genre>
+        <quantity>0</quantity>
+        <price>20.0</price>
+    </book>
+</books>
